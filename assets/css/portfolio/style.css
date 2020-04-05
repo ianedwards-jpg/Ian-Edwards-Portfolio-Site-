@@ -1,0 +1,46 @@
+/* Portfolio Page CSS
+-------------------------------------------------- */
+body {
+    /*overflow: hidden;  */
+}
+.jumbotron {
+margin-bottom: 0px;
+background-color: mistyrose;
+padding: 20px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    height: 5%;
+    width: 100%;
+    line-height: 40px;
+    align-items: left;
+    background-color: #6c757d;
+    padding-top: 10px;
+
+}
+
+.card-body, .small{
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    text-align: right;
+    
+}
+
+.img-fluid {
+    border: 2px solid black;
+    height: 225px;
+    width: 348px; 
+}
+
+.divpad {
+    padding-bottom: 70px;
+}
+
+.container-fluid {
+max-width: 100%;
+}
+
